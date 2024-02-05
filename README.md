@@ -18,6 +18,9 @@ Instead of generic terms like “image” or “photo,” I now provide descript
 I explored CSS styling options to center the component on the page.
 Flexbox and Grid layout were particularly useful for achieving the desired layout.
 
+# Preview Site: 
+https://dk-qr-code-challenge.netlify.app/
+
 # Acknowledgments
 Challenge by Frontend Mentor.
 
