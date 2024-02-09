@@ -10,18 +10,17 @@ I gained a deeper understanding of semantic HTML tags and their impact on access
 
 ## Alt Text for Images:
 
-I learned how to write meaningful alt text for images.
-Instead of generic terms like “image” or “photo,” I now provide descriptive alt attributes (e.g., “QR code to frontendmentor.io”).
+- I learned how to write meaningful alt text for images.
+- Instead of generic terms like “image” or “photo,” I now provide descriptive alt attributes (e.g., “QR code to frontendmentor.io”).
 
 ## CSS Styling Techniques:
 
-I explored CSS styling options to center the component on the page.
-Flexbox and Grid layout were particularly useful for achieving the desired layout.
+- I explored CSS styling options to center the component on the page.
+- Flexbox and Grid layout were particularly useful for achieving the desired layout.
 
 # Preview Site: 
 https://dk-qr-code-challenge.netlify.app/
 
 # Acknowledgments
-Challenge by Frontend Mentor.
-
-Coded by DK.
+- Challenge by Frontend Mentor.
+- Coded by DK.
